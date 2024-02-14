@@ -1,11 +1,11 @@
 `10/2022 - 04/2023`
 
 ## Details:
-For Windows only! <br />
-Allows control of your computer with your face (pose) or eye (gaze). <br />
-Supports mouse movement, WASD keys and arrow keys. <br />
-Undergraduate final-year project (with dissertation detailing background and results). <br />
-Uses MediaPipe 468-point face landmark model for pose estimation and Dlib 68-point face landmark model for gaze detection. <br />
+- For Windows only! <br />
+- Allows control of your computer with your face (pose) or eye (gaze). <br />
+- Supports mouse movement, WASD keys and arrow keys. <br />
+- Undergraduate final-year project (with dissertation detailing background and results). <br />
+- Uses MediaPipe 468-point face landmark model for pose estimation and Dlib 68-point face landmark model for gaze detection. <br />
 
 
 ## Required modules (installed through pip):
