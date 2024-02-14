@@ -32,7 +32,9 @@ Started 10/2022 - Finished 04/2023. <br />
 ├── models
 │   └── shape_predictor_68_face_landmarks.dat
 ├── GUI.py
-└── HeadTracking.py
+├── GazeDlib.py
+├── HeadTracking.py
+└── PoseMediaPipe.py
 ```
 
 
