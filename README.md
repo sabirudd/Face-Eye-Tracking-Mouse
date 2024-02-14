@@ -1,4 +1,4 @@
-## Details
+## Details:
 Allows control of your computer with your face (pose) or eye (gaze). <br />
 Supports mouse movement, WASD keys and arrow keys. <br />
 Undergraduate final-year project (with dissertation detailing background and results). <br />
@@ -35,5 +35,15 @@ Started 10/2022 - Finished 04/2023. <br />
 └── HeadTracking.py
 ```
 
+
 ## Running the program:
 `python GUI.py`
+
+
+## Images:
+### Iris gaze tracking:
+![Program screenshot 1](./screenshots/screenshot_2.png?raw=true "Program screenshot 2")
+### Iris gaze tracking action options:
+![Program screenshot 2](./screenshots/screenshot_3.png?raw=true "Program screenshot 3")
+### Facial pose tracking:
+![Program screenshot 3](./screenshots/screenshot_1.png?raw=true "Program screenshot 1")
