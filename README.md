@@ -1,5 +1,5 @@
 ## Details:
-For windows only! <br />
+For Windows only! <br />
 Allows control of your computer with your face (pose) or eye (gaze). <br />
 Supports mouse movement, WASD keys and arrow keys. <br />
 Undergraduate final-year project (with dissertation detailing background and results). <br />
